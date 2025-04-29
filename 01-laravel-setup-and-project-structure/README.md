@@ -28,7 +28,26 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+📝 Handwritten Laravel Notes
+For a quick and visual reference, check out this handwritten note on Laravel setup and structure:
 
+🔗 Laravel Handwritten Documentation (Google Drive)
+
+✅ Requirements
+Make sure you have the following installed:
+
+PHP >= 8.1
+
+Composer
+
+MySQL or any supported database
+
+Node.js and npm (for front-end assets)
+
+📚 Additional Resources
+Laravel Official Documentation
+
+Laracasts: Laravel From Scratch
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
