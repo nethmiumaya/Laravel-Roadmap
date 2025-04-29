@@ -50,7 +50,7 @@ Laravel Official Documentation
 Laracasts: Laravel From Scratch
 ## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Handwritten Note](https://drive.google.com/file/d/1ODgczkDufDJjgmlWS0pQpPOl4n_Jur7X/view?usp=sharing).
 
 ### Premium Partners
 
